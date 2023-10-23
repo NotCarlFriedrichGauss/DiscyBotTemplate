@@ -29,7 +29,7 @@ To host your Discord bot using `discord.py` on Replit, follow these steps:
    - Keep this token secure and never share it publicly
    - Head to "main.py", and replace `#Enter Your Bot Token Here` with your bot token.
 
-5. **Install Required Packages**:
+4. **Install Required Packages**:
 
    Replit automatically manages dependencies using a `requirements.txt` file. Create a `requirements.txt` file in your project if it doesn't already exist and add the following line to it to install the `discord.py` library:
 
