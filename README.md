@@ -46,4 +46,4 @@ Please note that Replit has certain limitations, and your bot may go offline if 
 Make sure to consult the latest Replit documentation for any specific updates or changes to their platform.
 
 Have fun !!! 
--:)
+- :)
