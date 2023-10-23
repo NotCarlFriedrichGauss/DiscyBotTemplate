@@ -8,32 +8,28 @@ To host your Discord bot using `discord.py` on Replit, follow these steps:
 2. **Create a New Replit Project**:
 
    - Click on the "New Repl" button.
-   - Choose "Python" as your language.
-   - Name your project and click "Create Repl."
+   - Choose "Import From Github" and add "https://github.com/NotCarlFriedrichGauss/DiscyBotTemplate"
+   
 
-3. **Write Your Bot Code**:
-
-   Import the code given above to your repl
-
-4. **Add Your Bot Token**:
+3. **Add Your Bot Token**:
    Step 1: Create a Discord Application
    
-   -Go to the Discord Developer Portal.
-   -Click on "New Application" and give your application a name. This will be your bot's name.
+   - Go to the Discord Developer Portal.
+   - Click on "New Application" and give your application a name. This will be your bot's name.
    
    Step 2: Create a Bot User
    
-   -In your application settings, click on the "Bot" section in the left sidebar.
-   -Click "Add Bot" to create a new bot user for your application.
-   
+   - In your application settings, click on the "Bot" section in the left sidebar.
+   - Click "Add Bot" to create a new bot user for your application.
+   - Make sure that you have enabled all the necessary permissions
+
    Step 3: Obtain the Bot Token
    
-   -Under the "Token" section, you will find your bot's token. Click the "Copy" button to copy it to your clipboard.
+   - Under the "Token" section, you will find your bot's token. Click the "Copy" button to copy it to your clipboard.
    - Keep this token secure and never share it publicly
+   - Head to "main.py", and replace `#Enter Your Bot Token Here` with your bot token.
 
-   - Replace `#Enter Your Bot Token Here` with your bot token.
-
-6. **Install Required Packages**:
+5. **Install Required Packages**:
 
    Replit automatically manages dependencies using a `requirements.txt` file. Create a `requirements.txt` file in your project if it doesn't already exist and add the following line to it to install the `discord.py` library:
 
@@ -42,7 +38,7 @@ pip install -r requirements.txt
 ```
 
 
-6. **Running Your Bot on Replit**:
+5. **Running Your Bot on Replit**:
 
    - In Replit, click the "Run" button to start your bot. This will install the necessary dependencies and run your bot.
    - Ensure that your bot is running without any errors.
