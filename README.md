@@ -44,3 +44,6 @@ pip install -r requirements.txt
 Please note that Replit has certain limitations, and your bot may go offline if the project is not active or if it encounters heavy traffic. For more stable hosting, you might consider other cloud hosting services or self-hosting on a dedicated server or VPS.
 
 Make sure to consult the latest Replit documentation for any specific updates or changes to their platform.
+
+Have fun !!! 
+-:)
