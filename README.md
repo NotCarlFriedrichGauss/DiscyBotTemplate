@@ -10,7 +10,6 @@ To host your Discord bot using `discord.py` on Replit, follow these steps:
    - Click on the "New Repl" button.
    - Choose "Import From Github" and add "https://github.com/NotCarlFriedrichGauss/DiscyBotTemplate"
    
-
 3. **Add Your Bot Token**:
    
    Step 1: Create a Discord Application
