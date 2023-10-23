@@ -1,7 +1,5 @@
 # DiscyBotTemplate
 
-To host your Discord bot using `discord.py` on Replit, follow these steps:
-
 1. **Create a Replit Account**:
    If you don't have a Replit account, sign up for one at [replit.com](https://replit.com/).
 
