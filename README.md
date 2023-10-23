@@ -14,7 +14,7 @@ To host your Discord bot using `discord.py` on Replit, follow these steps:
 3. **Add Your Bot Token**:
    Step 1: Create a Discord Application
    
-   - Go to the Discord Developer Portal.
+   - Go to the [Discord Developer Portal](https://discord.com/developers/applications).
    - Click on "New Application" and give your application a name. This will be your bot's name.
    
    Step 2: Create a Bot User
